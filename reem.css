@@ -1,0 +1,66 @@
+
+@font-face {
+    font-family: hayah;
+    src: url(Pacifico-Regular.ttf);
+}
+
+.webname{
+    font-family: hayah;
+    display: inline;
+    margin-right: 270px;
+}
+
+.x{
+    display: inline;
+    margin-left: 100px;
+}
+
+
+.bag{
+    display: inline;
+    margin-left: 320px;
+}
+
+.r{
+    text-decoration: none;
+    color: black;
+}
+
+.a{
+    color: maroon;
+}
+
+
+#wagha{
+    width: 100%;
+}
+
+#tips{
+    width: 50%;
+    
+}
+
+#shop{
+    width: 49%;
+    height:645px ;
+
+}
+
+#slogan{
+    color: #800000;
+    position: absolute;
+    margin-left: 0px;
+    padding: 200px 80px;
+
+
+}
+#form{
+    color: #800000;
+    
+
+}
+.btn1{
+    color: #800000;
+    
+
+}

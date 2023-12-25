@@ -1,0 +1,49 @@
+
+@font-face {
+    font-family: hayah;
+    src: url(Pacifico-Regular.ttf);
+}
+
+.webname{
+    font-family: hayah;
+    display: inline;
+    margin-right: 270px;
+}
+
+.x{
+    display: inline;
+    margin-left: 100px;
+}
+
+
+.bag{
+    display: inline;
+    margin-left: 320px;
+}
+
+.r{
+    text-decoration: none;
+    color: black;
+}
+
+.a{
+    color: maroon;
+    text-align: center;
+}
+
+
+.column{
+    float: left;
+    width: 100%;
+    padding: 5px;
+}
+img{
+    width: 100%;
+}
+.container{
+   display: flex;
+   justify-content: center;
+    align-items: center;
+
+
+}
